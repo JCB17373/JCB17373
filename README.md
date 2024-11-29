@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman.
 - 👀 I’m interested in writing codes for mobile applications.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning SwiftUI.
 - 📫 You can reach me at https://www.linkedin.com/in/aman-bhatt-292748170/
 
 <!---
